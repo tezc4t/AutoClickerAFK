@@ -10,12 +10,10 @@ This project provides a simple yet effective **AutoClicker** designed to bypass 
 
 ---
 
-## Features
+## Feature
 
 * **Quick Toggle** : Use a dedicated hotkey to easily start and stop the auto-clicking function.
-* **Configurable Interval** : Allows setting the click frequency (in milliseconds) to simulate ongoing activity.
-* **Randomized Mode (Recommended)** : Includes an option to introduce slight random variation in the clicking time, making the activity less predictable and potentially harder for certain Anti-AFK systems to detect.
-
+* 
 ---
 
 ## 🛠️ Installation and Configuration
@@ -25,8 +23,6 @@ This project provides a simple yet effective **AutoClicker** designed to bypass 
 * [**Python 3**](https://www.python.org/downloads/) (Required to run the script, if applicable).
 * The following Python libraries (if using a Python script):
     * `pynput` : For mouse simulation and keyboard listening.
-    * `time` : For timing and delays.
-    * `random` : (Optional) For randomized mode.
 
 ```bash
 # Example dependency installation if using Python
