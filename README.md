@@ -13,7 +13,7 @@ This project provides a simple yet effective **AutoClicker** designed to bypass 
 ## Feature
 
 * **Quick Toggle** : Use a dedicated hotkey to easily start and stop the auto-clicking function.
-* 
+ 
 ---
 
 ## 🛠️ Installation and Configuration
